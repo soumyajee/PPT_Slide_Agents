@@ -8,3 +8,5 @@ pydantic
 numpy
 psutil
 requests
+groq
+google-generativeai
