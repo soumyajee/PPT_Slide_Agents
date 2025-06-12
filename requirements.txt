@@ -10,3 +10,4 @@ psutil
 requests
 groq
 google-generativeai
+python-dotenv 
