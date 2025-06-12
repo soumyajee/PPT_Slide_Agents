@@ -1,0 +1,162 @@
+[
+    {
+        "title": "What is ALTAI?",
+        "content": "ALTAI is a self-assessment tool developed by the High-Level Expert Group to ensure AI systems are trustworthy, based on seven key requirements."
+    },
+    {
+        "title": "Purpose of ALTAI",
+        "content": "ALTAI provides a practical framework for organizations to assess AI systems\u2019 alignment with ethical principles and fundamental rights."
+    },
+    {
+        "title": "Key Objectives",
+        "content": "ALTAI aims to provide a self-assessment tool to ensure AI systems are trustworthy, focusing on seven key requirements: human agency, robustness, privacy, transparency, fairness, well-being, and accountability."
+    },
+    {
+        "title": "Development Process",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Fundamental Rights Focus",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Human Agency and Autonomy",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Human Oversight Mechanisms",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Preventing Over-Reliance",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "User Awareness",
+        "content": "Unable to generate content due to error: 504 Deadline Exceeded"
+    },
+    {
+        "title": "Social Interaction Risks",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Resilience to Attacks",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "General Safety",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Accuracy",
+        "content": "ALTAI requires assessing AI accuracy through task-specific metrics, ensuring reliable predictions for unseen data. Did you evaluate accuracy metrics for your AI system?"
+    },
+    {
+        "title": "Reliability and Reproducibility",
+        "content": "ALTAI emphasizes ensuring AI systems produce consistent and reproducible results across different conditions."
+    },
+    {
+        "title": "Cybersecurity Measures",
+        "content": "ALTAI requires implementing encryption, intrusion detection, and regular security audits to protect AI systems."
+    },
+    {
+        "title": "Privacy Protection",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Data Governance Practices",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "GDPR Compliance",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Data Protection Impact Assessment",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Privacy-by-Design",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Traceability Measures",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Explainability of Decisions",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Communication of Limitations",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "User Notification",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Data Quality",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Avoiding Unfair Bias",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Accessibility and Universal Design",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Stakeholder Participation",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Fairness Definitions",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Bias Monitoring",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Environmental Impact",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Work and Skills Impact",
+        "content": "Unable to generate content due to error: 504 Deadline Exceeded"
+    },
+    {
+        "title": "Societal and Democratic Effects",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Sustainability Goals",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Worker Consultation",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Auditability Mechanisms",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Risk Management Processes",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Third-Party Auditing",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Ethics Review Boards",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    },
+    {
+        "title": "Redress by Design",
+        "content": "Unable to generate content due to error: Invalid JSON structure: 'title' and 'content' fields required."
+    }
+]

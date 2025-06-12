@@ -1,0 +1,162 @@
+[
+    {
+        "title": "What is ALTAI?",
+        "content": "The Assessment List for Trustworthy AI (ALTAI) is a tool designed to help foster responsible and sustainable AI innovation in Europe. It aims to make ethics a core pillar of AI development, ensuring that AI systems are lawful, ethical, and robust. ALTAI seeks to benefit, empower, and protect both individuals and society."
+    },
+    {
+        "title": "Purpose of ALTAI",
+        "content": "ALTAI helps ensure AI systems are developed and used responsibly. It provides a framework for assessing AI systems across various dimensions, promoting transparency and building trust."
+    },
+    {
+        "title": "Key Objectives",
+        "content": "ALTAI aims to provide a self-assessment tool to ensure AI systems are trustworthy, focusing on seven key requirements: human agency, robustness, privacy, transparency, fairness, well-being, and accountability."
+    },
+    {
+        "title": "Development Process",
+        "content": "ALTAI was developed through a collaborative process involving experts from various fields. This ensures the assessment list reflects a broad understanding of the complexities surrounding trustworthy AI."
+    },
+    {
+        "title": "Fundamental Rights Focus",
+        "content": "ALTAI considers the impact of AI on fundamental rights.  It helps ensure AI systems respect human dignity, non-discrimination, and other essential rights."
+    },
+    {
+        "title": "Human Agency and Autonomy",
+        "content": "AI systems should support human decision-making and respect human autonomy. This means AI should empower users and uphold fundamental rights, with human oversight in place.  ALTAI assesses AI systems based on how they impact human behavior, including decision-making processes, perception, and expectations. It also considers the effect of AI on human trust, affection, and dependence."
+    },
+    {
+        "title": "Human Oversight Mechanisms",
+        "content": "ALTAI emphasizes the importance of human oversight in AI systems.  It encourages the development of mechanisms that allow humans to monitor, intervene, and correct AI actions when necessary. This ensures that AI remains under human control and accountable for its decisions."
+    },
+    {
+        "title": "Preventing Over-Reliance",
+        "content": "ALTAI recognizes the potential for humans to become overly reliant on AI systems.  It promotes the development of AI that complements human capabilities rather than replacing them entirely.  This helps ensure that humans maintain control and responsibility in decision-making processes."
+    },
+    {
+        "title": "User Awareness",
+        "content": "ALTAI stresses the importance of users understanding how AI systems work and their limitations. This includes being transparent about AI's role in decision-making and potential biases."
+    },
+    {
+        "title": "Social Interaction Risks",
+        "content": "AI systems should be designed to interact with humans in a way that respects social norms and values.  ALTAI highlights the potential for AI to be misused for manipulation or to exacerbate existing social biases."
+    },
+    {
+        "title": "Resilience to Attacks",
+        "content": "Could the AI system be harmed or misused in ways that could negatively impact people or society?  This includes considering risks from design flaws, technical issues, attacks, or malicious use.  Have you taken steps to ensure the AI system is secure against potential attacks throughout its entire lifespan? Did you consider vulnerabilities like data poisoning, model evasion, or model inversion?  "
+    },
+    {
+        "title": "General Safety",
+        "content": "AI systems should be designed to minimize harm to individuals and society. This includes considering potential misuse and ensuring the system is resilient to attacks.  It's important to identify and mitigate potential biases in the AI system to prevent discrimination or unfair outcomes."
+    },
+    {
+        "title": "Accuracy",
+        "content": "The goal of an AI model is to learn patterns that generalize well for unseen data. It is important to check if a trained AI model is performing well on unseen examples that have not been used for training the model. To do this, the model is used to predict the answer on the test dataset and then the predicted target is compared to the actual answer. The concept of accuracy is used to evaluate the predictive capability of the AI model."
+    },
+    {
+        "title": "Reliability and Reproducibility",
+        "content": "An AI system is considered reliable if it behaves as expected even with new data it hasn't encountered before.  Reproducibility means that the same results can be obtained when the AI system is run again with the same input data."
+    },
+    {
+        "title": "Cybersecurity Measures",
+        "content": "How can the AI system be protected from unauthorized access, use, or modification? Robust cybersecurity measures are essential to ensure the safe and ethical operation of AI systems."
+    },
+    {
+        "title": "Privacy Protection",
+        "content": "ALTAI asks: \n\u2022 Did you consider the privacy and data protection implications of the AI system's non-personal training data or other processed non-personal data? \n\nThis ensures responsible use of data throughout the AI system's lifecycle."
+    },
+    {
+        "title": "Data Governance Practices",
+        "content": "This section helps assess how your AI system handles data protection.  \n\nKey questions include:\n\n* Does your AI system use personal data (including sensitive information)?\n* Have you implemented measures like Data Protection Impact Assessments (DPIAs) and designated a Data Protection Officer (DPO)? These are important steps to ensure responsible data handling."
+    },
+    {
+        "title": "Traceability",
+        "content": "ALTAI emphasizes the importance of understanding how an AI system arrives at its decisions.  \n\nKey questions include: \n\n* Can you trace back which data was used by the AI system to make a certain decision(s) or recommendation(s)?\n* Can you trace back which AI model or rules led to the decision(s) or recommendation(s) of the AI system? \n* Did you put in place measures to continuously assess the quality of the input data to the AI system? \n* Did you put in place measures to continuously assess the quality of the output(s) of the AI system? \n* Did you put adequate logging practices in place to record the decision(s) or recommendation(s) of the AI system?"
+    },
+    {
+        "title": "Data Protection Impact Assessment",
+        "content": "ALTAI encourages a thorough assessment of the potential impact of your AI system on data protection.  This involves considering the risks to individuals' privacy and taking steps to mitigate those risks. Key questions in this area focus on how your system collects, stores, uses, and shares data, ensuring compliance with relevant regulations and ethical principles."
+    },
+    {
+        "title": "Privacy-by-Design",
+        "content": "ALTAI promotes the concept of 'Privacy-by-Design',  meaning privacy considerations should be integrated into the AI system from its earliest stages of development. This ensures that the system is designed with privacy as a fundamental principle, minimizing potential risks to individuals' data protection."
+    },
+    {
+        "title": "Traceability Measures",
+        "content": "ALTAI stresses the importance of understanding how an AI system reaches its decisions. This involves establishing mechanisms to track the AI system's development process, the origin of its training data, and the recording of its processes, outcomes, and both positive and negative impacts."
+    },
+    {
+        "title": "Explainability of Decisions",
+        "content": "ALTAI emphasizes the need for transparency in how AI systems make decisions. This means understanding the reasoning behind an AI's outputs.  It encourages organizations to  provide clear and understandable explanations of AI-driven decisions to users."
+    },
+    {
+        "title": "Communication of Limitations",
+        "content": "ALTAI emphasizes clear communication about potential limitations of AI systems. This includes establishing processes for flagging issues related to bias, discrimination, or poor performance.  It also involves defining how and to whom these issues can be raised."
+    },
+    {
+        "title": "User Notification",
+        "content": "ALTAI emphasizes the importance of clear communication about potential limitations of AI systems. This includes establishing mechanisms for user notification about the system's limitations and potential biases."
+    },
+    {
+        "title": "Data Quality",
+        "content": "ALTAI highlights the crucial role of high-quality data in building trustworthy AI.  AI systems are only as good as the data they are trained on, so ensuring data accuracy, completeness, and relevance is essential."
+    },
+    {
+        "title": "Avoiding Unfair Bias",
+        "content": "AI systems can perpetuate and amplify existing societal biases if not carefully designed.  It is important to consider the potential for bias throughout the AI system's life cycle and take steps to mitigate it.  Did you assess the potential for bias in the data used to train the AI system?  Did you implement techniques to identify and mitigate bias during the development process?"
+    },
+    {
+        "title": "Accessibility and Universal Design",
+        "content": "Trustworthy AI should be accessible to everyone, regardless of their abilities or background. This means designing AI systems that are usable by people with disabilities and that do not discriminate against individuals based on factors like race, gender, or socioeconomic status."
+    },
+    {
+        "title": "Stakeholder Participation",
+        "content": "Trustworthy AI development benefits from involving diverse stakeholders.  Did you engage with potential end-users and subjects during planning and development?  Did you consider if any groups might be disproportionately affected by the AI system's outcomes?  Assessing these factors helps ensure fairness and inclusivity."
+    },
+    {
+        "title": "Fairness Definitions",
+        "content": "What does fairness mean in the context of AI?  ALTAI provides definitions and considerations for ensuring fairness in AI systems."
+    },
+    {
+        "title": "Bias Monitoring",
+        "content": "Trustworthy AI requires ongoing monitoring for bias.  Did you establish a process to continuously assess the AI system's adherence to ALTAI's fairness principles? This process should include identifying and documenting any conflicts between fairness and other ethical considerations, along with explanations for any 'trade-off' decisions made."
+    },
+    {
+        "title": "Environmental Impact",
+        "content": "AI systems should be developed and used in an environmentally friendly way.  This means considering the impact of the AI system's development, deployment, and use on the environment throughout its entire lifecycle.  For example, this includes examining resource usage and energy consumption during training.  Measures to reduce the environmental impact of an AI system should be encouraged."
+    },
+    {
+        "title": "Work and Skills Impact",
+        "content": "Trustworthy AI should consider its impact on jobs and the skills needed in the future.  How will your AI system affect employment opportunities?  Are there potential risks of job displacement?  What steps will you take to mitigate negative impacts and promote reskilling?"
+    },
+    {
+        "title": "Societal and Democratic Effects",
+        "content": "Trustworthy AI should consider its impact on society and democracy.  This includes examining potential effects on fairness, accountability, transparency, and the distribution of power."
+    },
+    {
+        "title": "Sustainability Goals",
+        "content": "The ALTAI framework emphasizes the importance of sustainability. This means considering the environmental impact of AI development and use.  AI systems should be designed and deployed in a way that minimizes harm to the planet and promotes responsible resource consumption."
+    },
+    {
+        "title": "Worker Consultation",
+        "content": "Trustworthy AI development should involve meaningful consultation with workers. This helps ensure AI systems are designed and implemented in ways that benefit workers and minimize potential negative impacts."
+    },
+    {
+        "title": "Auditability Mechanisms",
+        "content": "Trustworthy AI systems should be auditable. This means having clear processes and tools to understand how the AI makes decisions and to identify potential biases or errors."
+    },
+    {
+        "title": "Risk Management Processes",
+        "content": "Trustworthy AI systems should have clear processes for identifying, assessing, and mitigating potential risks. These processes should be documented and regularly reviewed to ensure they remain effective."
+    },
+    {
+        "title": "Third-Party Auditing",
+        "content": "ALTAI emphasizes the importance of third-party auditing for trustworthy AI. This involves independent experts evaluating AI systems against established standards and best practices."
+    },
+    {
+        "title": "Ethics Review Boards",
+        "content": "Trustworthy AI systems should include ethics review boards. These boards provide independent oversight and ensure AI development and deployment align with ethical principles."
+    },
+    {
+        "title": "Redress by Design",
+        "content": "Trustworthy AI systems should be designed with mechanisms for addressing potential harm. This means establishing clear processes for receiving and responding to complaints, as well as providing avenues for redress."
+    }
+]
